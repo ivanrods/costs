@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": "d696",
+      "name": "New project",
+      "budget": "1200",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "Planejamento",
+          "cost": "300",
+          "description": "Design do site",
+          "id": "ea622e22-7594-4328-95c9-d0db27d217eb"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
