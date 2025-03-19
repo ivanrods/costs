@@ -13,7 +13,7 @@
  
   list-style: none;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
   flex-direction: row;
 }
 .menu {
@@ -31,27 +31,3 @@
   color: #ffbb33;
 }
 
-@media (max-width: 450px) {
-  .list {
-    display: none;
-  }
-  .menu {
-    display: block;
-  }
-  .box {
-    width: 100%;
-  }
-  .list {
-    width: 100%;
-    font-size: 2em;
-    justify-content: center;
-    flex-direction: column;
-  }
-  .hide {
-  display: none;
-}
-
-.open {
-  display: flex;
-}
-}

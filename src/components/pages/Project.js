@@ -123,7 +123,7 @@ function Project() {
     <>
       {project.name ? (
         <div className={styles.project_details}>
-          <Container customClass="column">
+          <Container customClass="column" >
             {message && <Message type={type} msg={message} />}
             <div className={styles.detail_container}>
               <h1>Projeto: {project.name}</h1>

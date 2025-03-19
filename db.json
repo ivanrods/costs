@@ -1,40 +1,15 @@
 {
   "projects": [
     {
-      "id": "d696",
-      "name": "New project",
-      "budget": "1200",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 300,
-      "services": [
-        {
-          "name": "Planejamento",
-          "cost": "300",
-          "description": "Design do site",
-          "id": "ea622e22-7594-4328-95c9-d0db27d217eb"
-        }
-      ]
-    },
-    {
-      "id": "b986",
-      "name": "Teste",
-      "budget": "3000",
+      "id": "88aa",
+      "name": "Meu projeto",
+      "budget": "4000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 2000,
-      "services": [
-        {
-          "name": "Teste",
-          "cost": "2000",
-          "description": "Teste",
-          "id": "e9e2861c-a305-4886-81fc-6eb41bde44b9"
-        }
-      ]
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [

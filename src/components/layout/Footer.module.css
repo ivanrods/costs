@@ -20,6 +20,9 @@
   font-size: 1.5em;
   cursor: pointer;
 }
+.social_list a {
+  color: white;
+}
 
 .copy_right {
   margin-top: 2rem;
